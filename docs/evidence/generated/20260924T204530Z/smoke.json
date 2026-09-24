@@ -1,0 +1,7 @@
+{
+  "name": "smoke",
+  "status": "PASS",
+  "returncode": 0,
+  "stdout": "{'status': 'ok', 'service': 'stock-unico', 'version': '0.1.0'}\n",
+  "stderr": ""
+}
