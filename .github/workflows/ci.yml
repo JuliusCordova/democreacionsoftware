@@ -29,3 +29,6 @@ jobs:
 
       - name: Smoke
         run: make smoke
+
+      - name: Inventory Core smoke
+        run: make inventory-smoke
